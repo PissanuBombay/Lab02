@@ -10,20 +10,11 @@ p2 {
     text-align: center;
     color: black; 
     font-family: "Comic Sans MS", cursive, sans-serif;  
-    font-weight: bold; 
+    font-weight: bold;
 }
 a{
     text-decoration:  none;
 }
- div.frame1 {
-     padding: 250px;
- }
-.center_div {
-    border: 1px solid gray;
-    margin-left: auto;
-    margin-right: auto;
-    width: 97%;
-    background-color: #66ffff;
-    text-align: right;
-    padding: 20px;
+p1 {
+    font-weight: 900;
 }
