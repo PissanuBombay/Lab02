@@ -18,3 +18,10 @@ a{
 p1 {
     font-weight: 900;
 }
+ h1 { 
+    text-align: center;
+    color: palevioletred; 
+    font-family: "sansserif";
+    text-shadow: 5px 3px deepskyblue;
+    font-size: 50px
+}
